@@ -1,7 +1,7 @@
 # This is the LPiT definition YAML file for the Event Structures document
 
 doc:
-  id:eventStructures
+  id: eventStructures
   type: paper
 
 title:
