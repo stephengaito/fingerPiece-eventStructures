@@ -14,6 +14,7 @@ authors:
     # prefix: von
     # suffix: jr
     # order: givenFamily | familyCommaGiven
+    email: stephen@perceptisys.co.uk
 
 abstract: |
   We generalize Winskel's Event Structures (including defined as

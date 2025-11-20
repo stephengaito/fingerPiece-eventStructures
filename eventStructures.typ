@@ -10,21 +10,12 @@
 ///////////////////////////////////////////////
 // Front matter
 
-// #lpitDocument("eventStructures",
-//  shortTitle: [ Event Structures ],
-//  longTitle: [ Massively parallel event structures for Quantum Gravity ])
+#setupDoc(yaml("lpit.yaml"))
 
-// \author{  }
-
-// \maketitle
-
-// #abstract[
-//   We generalize Winskel's Event Structures (including defined as
+#abstract([ We generalize Winskel's Event Structures (including defined as
 pre-sheaves) to Massively Parallel Event Structures as the basis of our
 approach to Quantum Gravity.
-
-// ]
-
+ ])
 
 
 ///////////////////////////////////////////////
